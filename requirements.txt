@@ -2,4 +2,5 @@ django
 djangorestframework
 pyyaml
 requests
+djangorestframework-simplejwt
 django-cors-headers
